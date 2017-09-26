@@ -19,5 +19,3 @@ and connect `localhost:3000`
 `yarn run storybook`
 
 and connect `localhost:3001`
-
-product by *@kankanpan*
