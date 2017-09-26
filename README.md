@@ -1,10 +1,22 @@
-##これはReactとReact-storybookとReact-routerのてすとのためにできました。##
-'cd ReactTest'
-'yarn init'
-'yarn run start'
-and connect localhost:3000
+# ReactTest (and more package test)#
+=============
+### これはReactとReact-storybookとReact-routerのてすとのためにできました。
+### Get STARTED!!
+-------------
+```
+cd /ReactTest
+yarn init
+```
+### Did you start now?
+-------------
+`yarn run start`
 
-or
+and connect `localhost:3000`
 
-'yarn run storybook'
-and connect localhost:3001
+### Did you start develop?
+-------------
+`yarn run storybook`
+
+and connect `localhost:3001`
+
+product by *@kankanpan*
