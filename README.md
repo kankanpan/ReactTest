@@ -1,4 +1,4 @@
-##これはReactとReact-storybookとReact-routerのてすとのためにできました。
+##これはReactとReact-storybookとReact-routerのてすとのためにできました。##
 'cd ReactTest'
 'yarn init'
 'yarn run start'
